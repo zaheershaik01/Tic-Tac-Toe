@@ -22,4 +22,9 @@ A simple web-based **Tic Tac Toe** game built using **HTML**, **CSS**, and **Jav
 - CSS
 - JavaScript
 
+  ## Author
+
+Shaik Zaheer  
+[GitHub Profile](https://github.com/zaheershaik01)
+
 
